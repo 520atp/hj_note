@@ -1,0 +1,34 @@
+<view class="message">
+  <view class="left">
+		<image class="face-img" src="/images/卡通蛇.png"></image>
+  </view>
+  <view class="right">
+		<view class="nick-name">编辑不打烊</view>
+		<view class="content">你好呀！哈哈看，哈卡卡卡了金阿奎金阿奎久啊卡机，护航是的话，红烧豆腐客户说代付款
+			啊含税单价哈师大，开发，可视电话富士康回复，时间的话防守打法，是的让对方看来你是地方！
+		</view>
+		<view class="image-wrap">
+			<image class="image-text" src="/images/风景.jpeg"></image>
+			<image class="image-text" src="/images/风景.jpeg"></image>
+			<image class="image-text" src="/images/风景.jpeg"></image>
+		</view>
+		<view class="time-delete">
+			<view class="time">2024-12-15 12:25</view>
+			<view class="delete">删除</view>
+		</view>
+		<view class="hudong-box">
+			<view class = "hudong-cell">
+				<image class="hudong-img" src="/images/分享.png"></image>
+				<view class="share-text">分享</view>
+			</view>
+			<view class = "hudong-cell">
+				<image class="hudong-img" src="/images/评论.png"></image>
+				<view class="share-text">评论</view>
+			</view>
+			<view class = "hudong-cell">
+				<image class="hudong-img" src="/images/点赞.png"></image>
+				<view class="share-text">点赞</view>
+			</view>
+		</view>
+	</view>
+</view>
